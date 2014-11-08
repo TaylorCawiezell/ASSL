@@ -1,0 +1,12 @@
+.headerBackground{
+	background-color:#b6c8bf;
+}
+
+.contentBackground{
+	background-color:#daebe2;
+}
+
+.tableProperty{
+	border-collapse: collapsed;
+	border: 1px solid green;	
+}
